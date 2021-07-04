@@ -40,6 +40,16 @@ Location       | Specifications | Link
 Plate to Top   | 4x M2x6mm      | https://www.mcmaster.com/catalog/91292A831
 Bottom to Top  | 4x M2x10mm     | https://www.mcmaster.com/catalog/91292A833
 
+## Firmware
+
+The Bepovan firmware is not currently merged into main QMK. Please use our fork until then.
+
+The Bepovan VIA config is not currently merged into main VIA. Please use our files until then.
+
+QMK: [AeternusCo/qmk_firmware](https://github.com/aeternusco/qmk_firmware/tree/bepovan)
+
+VIA: [Bepovan_VIA.zip](https://cdn.discordapp.com/attachments/784202611313868840/861264878644101130/Bepovan_VIA.zip)
+
 ## License
 
 All files are licensed under CERN-OHL-P v2.

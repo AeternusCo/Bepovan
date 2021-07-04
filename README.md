@@ -1,5 +1,9 @@
 # Bepovan
 
+![Image of Bepovan by pockets](/.github/bepovan.jpg)
+
+> Photo credit: pockets#0042 from the 40% Keyboards Discord
+
 ## Introduction
 
 Project Page: [Bepovan](https://github.com/AeternusCo/Bepovan)

@@ -54,4 +54,4 @@ VIA: [Bepovan_VIA.zip](https://cdn.discordapp.com/attachments/784202611313868840
 
 All files are licensed under CERN-OHL-P v2.
 
-See [LICENSE](/LICENSE.md) file for more details.
+See [LICENSE](/LICENSE) file for more details.
